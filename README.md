@@ -1,2 +1,2 @@
-# little_demos
+# demo-updating
 some little projects for training
