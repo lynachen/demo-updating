@@ -1,6 +1,10 @@
 # demo-updating
+
 some little projects for training
 
-1.https://lynachen.github.io/demo-updating/Car_Parking.html
 
-2.https://lynachen.github.io/demo-updating/working_clock.html
+[Car_Parking](https://lynachen.github.io/demo-updating/Car_Parking.html)
+
+
+[Working_Clock](https://lynachen.github.io/demo-updating/working_clock.html)
+
