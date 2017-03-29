@@ -1,6 +1,6 @@
 # demo-updating
 
-some little projects for training
+some small projects for training
 
 
 [Car_Parking](https://lynachen.github.io/demo-updating/Car_Parking.html)
