@@ -1,6 +1,6 @@
 # demo-updating
 
-some small projects for training
+projects for training
 
 
 演示链接：
